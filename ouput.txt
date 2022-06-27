@@ -1,0 +1,17 @@
+Advantages of Javascript
+
+*Speed
+*popularity
+*simple
+*server load
+*Extended Functionality
+
+What is closure?
+A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. 
+
+Write 5 math inbuilt method.
+Math.max(x,y)
+Math.min(x,y)
+Math.sqrt(x)
+Math.random()
+Math.abs(x)
